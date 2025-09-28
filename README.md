@@ -46,5 +46,30 @@ Explore the interactive dashboard by applying filters and hovering over visuals.
 
 📸 Dashboard Preview
 -
-![image_alt]()
+![image_alt](https://github.com/bhargavang/Road-Accident-Analytics/blob/9ab9eff7015f5c19b1dc61b79346fdead1fa8799/Dashboardpic.png)
+
+---
+
+📈 Key Insights
+-
+Majority of accidents occur under fine weather conditions, highlighting that human factors play a major role.
+
+Fog/Snow conditions, though rare, show higher severity rates.
+
+---
+🛠 Tools & Technologies
+-
+Tableau Public / Desktop
+
+CSV Dataset (Link for DataSet:https://drive.google.com/drive/folders/1DOIuNkKn3JF7IVn92wVhA2zvF8_X-weV?usp=drive_link)
+
+👤 Author
+-
+Basavaraj Angadi
+
+GitHub: https://www.github.com/bhargavang
+
+LinkedIn:https://www.linkedin.com/in/basavarajangadi/
+
+---
 
