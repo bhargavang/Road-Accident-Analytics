@@ -44,4 +44,7 @@ Explore the interactive dashboard by applying filters and hovering over visuals.
 
 ---
 
+📸 Dashboard Preview
 -
+![image_alt]()
+
